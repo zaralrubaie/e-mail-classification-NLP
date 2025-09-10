@@ -71,5 +71,5 @@ The dataset contains the following columns:
 email-classification-nlp/
 ├── SMS_train.csv           # Training dataset
 ├── SMS_test.csv            # Test dataset
-├── NLP-mail-classification.ipynb  # Notebook with full analysis
+├── NLP-mail-classification.py # Notebook with full analysis
 └── README.md               # Project documentation
