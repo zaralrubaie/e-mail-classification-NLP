@@ -65,11 +65,10 @@ The dataset contains the following columns:
 
 ---
 
-##  Project Structure  
+##  Project Structure
 
 ```bash
 email-classification-nlp/
-├── SMS_train.csv           # Training dataset
-├── SMS_test.csv            # Test dataset
-├── NLP-mail-classification.py # Notebook with full analysis
-└── README.md               # Project documentation
+├── nlp_mail_classification.py        # Python script with full NLP workflow
+├── predictions_logistic_regression.csv  # CSV file containing model predictions
+└── README.md                         # Project documentation
